@@ -1,7 +1,7 @@
 # StucareAssignment
 
 
-This project demostrates use of TMDB movie API implementation using BLoC architecture pattern and will help to understand use of Streams in flutter.
+This project demostrates use of different android jetpack components and demonstrate use of MVVM architecture pattern.
 
 Following components are used in this project:
 
